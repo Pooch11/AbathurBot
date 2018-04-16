@@ -1,3 +1,5 @@
+This is A FORKED COPY OF AbathurBot
+
 # AbathurBot Setup (PROTOTYPE)
 AbathurBot allows you to write your own AI using the [Abathur Framework](https://github.com/schmidtgit/Abathur) and run it.
 Clone, compile and run. The launcher should handle the rest and run a demo.
